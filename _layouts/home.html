@@ -1,0 +1,21 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<p>
+You have reached my personal webpage!
+</p>
+<p>
+Check out <a href="/notes-archive/">projects I have worked on</a>,<br>my <a href="/notes-archive/">notes on statistics/machine learning</a>,<br>or <a href="/posts/">posts on my blog</a>.
+</p>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
+

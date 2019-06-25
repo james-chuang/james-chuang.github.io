@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
+  - title: "Projects"
+    url: /notes-archive/
+  - title: "Notes"
+    url: /notes-archive/
+  - title: "Blog"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
   - title: "About"
     url: /about/
