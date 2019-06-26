@@ -1,0 +1,60 @@
+- title: miscellaneous
+  # description:
+  files:
+    - title: linear algebra review
+      path: notes/linalg_review.pdf
+    - title: probability review
+      path: notes/prob_review.pdf
+    - title: least squares linear regression by gradient descent
+      path: notes/4-5_linear_least_squares_gradient_descent.pdf
+- title: ESL
+  description: My notes on The Elements of Statistical Learning by Friedman, Tibshirani, and Hastie.
+  files:
+    - title: "bias-variance decomposition"
+      path: /notes/esl/bias_variance_decomposition.pdf
+    - title: "chapter 2 exercises"
+      path: /notes/esl/ch2_exercises.pdf
+    - title: "linear regression"
+      path: /notes/esl/linreg.pdf
+    - title: "multivariate linear regression"
+      path: /notes/esl/3.2.3_multiple_regression.pdf
+    - title: "chapter 4: linear methods for classification notes"
+      path: /notes/esl/ESL_ch4.pdf
+    - title: "chapter 7: model selection and assessment notes"
+      path: /notes/esl/ESL_ch7.pdf
+
+- title: CS229
+  description: My notes on the Stanford CS229 machine learning course.
+  files:
+    - title: lecture 1 notes
+      path: /notes/cs229/cs229-notes1.pdf
+    - title: lecture 2 notes
+      path: /notes/cs229/cs229-notes2.pdf
+    - title: lecture 3 notes
+      path: /notes/cs229/cs229-notes3.pdf
+    - title: lecture 4 notes
+      path: /notes/cs229/cs229-notes4.pdf
+    - title: boosting notes
+      path: /notes/cs229/boosting.pdf
+    - title: convex optimization notes
+      path: /notes/cs229/cs229-convex-opt-overview.pdf
+    - title: general loss function notes
+      path: /notes/cs229/cs229-general-loss-functions.pdf
+    - title: Hoeffding inequality notes
+      path: /notes/cs229/cs229-hoeffding.pdf
+    - title: problem set 0
+      path: /notes/cs229/ps0_2016.pdf
+    - title: problem set 1
+      path: /notes/cs229/ps1_2016.pdf
+    - title: problem set 2
+      path: /notes/cs229/ps2_2016.pdf
+- title: Deep learning book
+  description: My notes on Deep Learning by Goodfellow, Bengio, and Courville.
+  files:
+    - title: "chapter 4: numerical computation notes"
+      path: /notes/dlbook/ch4_numerical_computation.pdf
+    - title: "chapter 5: machine learning basics notes"
+      path: /notes/dlbook/ch5_ML_basics.pdf
+    - title: "chapter 6: deep feedforward networks notes"
+      path: /notes/dlbook/ch6_deep_ff_networks.pdf
+

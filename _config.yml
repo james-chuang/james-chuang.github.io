@@ -40,14 +40,14 @@ breadcrumbs: true
 include:
   - _pages
 
-collections_dir: collections
-collections:
-  cs229:
-    output: true
-    permalink: /:collection/:path/
-    notes: true
-    written_label: CS229
-    description: "My notes on the Stanford CS229 machine learning course."
+# collections_dir: collections
+# collections:
+#   cs229:
+#     output: true
+#     permalink: /:collection/:path/
+#     notes: true
+#     written_label: CS229
+#     description: "My notes on the Stanford CS229 machine learning course."
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -120,13 +120,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # # _notes
-  # - scope:
-  #     path: ""
-  #     type: notes
-  #   values:
-  #     layout: single
-  #     author_profile: true
+  # collections
+  - scope:
+      path: "collections/*"
+      # type: page
+    values:
+      layout: single
+      author_profile: true
 
 # category_archive:
 #   type: liquid
