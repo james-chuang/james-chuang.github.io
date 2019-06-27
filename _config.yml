@@ -99,6 +99,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # projects
+  - scope:
+      path: "projects"
+    values:
+      layout: project
+      author_profile: true
 
 # category_archive:
 #   type: liquid

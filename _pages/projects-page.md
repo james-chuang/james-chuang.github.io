@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 layout: splash
-permalink: /projects-page/
+permalink: /projects/
 date: 2016-03-23T11:48:41-04:00
 # header:
 #  overlay_color: "#000"
@@ -32,34 +32,34 @@ date: 2016-03-23T11:48:41-04:00
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 projects:
     row_1:
-        - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-          alt: "placeholder image 2"
-          title: "Transcription elongation factor Spt6"
-          excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+        - image_path: /assets/images/spt5.png
+          alt: "Cartoon of antisense transcription upon Spt5 depletion."
+          title: "Transcription elongation factor Spt5"
+          excerpt: 'As a graduate student (now postdoc) in the Fred Winston lab, I do data science and data engineering work on a project using various genomic assays to study the conserved transcription elongation factor Spt5 in *Schizosaccharomyces pombe*.'
           url: "#test-link"
           btn_label: "Read More"
           btn_class: "btn--primary"
     row_2:
-        - #image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-          #alt: "placeholder image 2"
-          title: "Transcription elongation factor Spt5"
-          excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+        - image_path: /assets/images/intragenic.png
+          alt: "Diagram of intragenic transcription generating a truncated protein."
+          title: "Functions of intragenic transcription"
+          excerpt: 'As a graduate student (now postdoc) in the Fred Winston lab, I do data science and data engineering work on a project studying possible functions for intragenic transcription in yeast cells under stress conditions.'
           url: "#test-link"
           btn_label: "Read More"
           btn_class: "btn--primary"
     row_3:
-        - # image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-          # alt: "placeholder image 3"
-          title: "Functions of intragenic transcription"
-          excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-          url: "#test-link"
+        - image_path: /assets/images/spt6.png
+          alt: "Cartoon of the transcription elongation complex."
+          title: "Transcription elongation factor Spt6"
+          excerpt: 'As a graduate student in the Fred Winston lab, I did data science and data engineering work on a project using various genomic assays to study the conserved transcription elongation factor Spt6 in *Saccharomyces cerevisiae*.'
+          url: /projects/spt6/
           btn_label: "Read More"
           btn_class: "btn--primary"
     row_4:
         - # image_path: /assets/images/unsplash-gallery-image-2-th.jpg
           # alt: "placeholder image 3"
           title: "DNA assembly methods"
-          excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+          excerpt: "As an undergraduate in Jef Boeke's lab, I did wet lab work on projects developing standardized combinatorial DNA assembly methods for synthetic biology."
           url: "#test-link"
           btn_label: "Read More"
           btn_class: "btn--primary"

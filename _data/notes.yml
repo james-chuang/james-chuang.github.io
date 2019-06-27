@@ -7,9 +7,12 @@
       path: notes/prob_review.pdf
     - title: least squares linear regression by gradient descent
       path: notes/4-5_linear_least_squares_gradient_descent.pdf
+
 - title: ESL
   description: My notes on The Elements of Statistical Learning by Friedman, Tibshirani, and Hastie.
   files:
+    - title: "chapter 2: least squares and nearest neighbors"
+      path: /notes/esl/ESL_ch2.pdf
     - title: "bias-variance decomposition"
       path: /notes/esl/bias_variance_decomposition.pdf
     - title: "chapter 2 exercises"

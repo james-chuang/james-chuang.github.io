@@ -1,8 +1,8 @@
 main:
   - title: "Projects"
-    url: /projects-page/
+    url: /projects/
   - title: "Notes"
-    url: /notes-archive/
+    url: /notes/
   - title: "Blog"
     url: /posts/
   # - title: "Categories"
