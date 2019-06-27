@@ -35,7 +35,7 @@
     - title: lecture 4 notes
       path: /notes/cs229/cs229-notes4.pdf
     - title: boosting notes
-      path: /notes/cs229/boosting.pdf
+      path: /notes/cs229/cs229-boosting.pdf
     - title: convex optimization notes
       path: /notes/cs229/cs229-convex-opt-overview.pdf
     - title: general loss function notes
