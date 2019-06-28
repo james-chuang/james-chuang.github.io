@@ -16,6 +16,7 @@ repository: james-chuang/james-chuang.github.io
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale : "en-US"
 title: a digital plumber
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -26,6 +27,7 @@ twitter_username: username
 github_username: james-chuang
 minimal_mistakes_skin: default
 search: true
+search_full_content: true
 
 # Build settings
 markdown: kramdown
@@ -65,11 +67,11 @@ plugins:
 author:
   name   : "James Chuang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a digital plumber: I build pipelines for analyzing data."
+  bio    : "A digital plumber:<br>One who builds pipelines<br>for data analysis."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://james-chuang.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/james-chuang"

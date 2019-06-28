@@ -36,7 +36,7 @@ projects:
           alt: "Cartoon of antisense transcription upon Spt5 depletion."
           title: "Transcription elongation factor Spt5"
           excerpt: 'As a graduate student (now postdoc) in the Fred Winston lab, I do data science and data engineering work on a project using various genomic assays to study the conserved transcription elongation factor Spt5 in *Schizosaccharomyces pombe*.'
-          url: "#test-link"
+          url: /projects/spt5
           btn_label: "Read More"
           btn_class: "btn--primary"
     row_2:
@@ -44,7 +44,7 @@ projects:
           alt: "Diagram of intragenic transcription generating a truncated protein."
           title: "Functions of intragenic transcription"
           excerpt: 'As a graduate student (now postdoc) in the Fred Winston lab, I do data science and data engineering work on a project studying possible functions for intragenic transcription in yeast cells under stress conditions.'
-          url: "#test-link"
+          url: /projects/intragenic
           btn_label: "Read More"
           btn_class: "btn--primary"
     row_3:
