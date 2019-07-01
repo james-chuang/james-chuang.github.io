@@ -5,12 +5,13 @@ permalink: /projects/intragenic/
 
 # Functions of intragenic transcription
 
-<figure style="width: 50%" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/intragenic.png" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
+<figure style="width: 50%" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/intragenic.png" alt="A diagram of one possible mechanism of function for intragenic gene expression, i.e. through the expression of an N-terminally truncated protein.">
+  <figcaption>A diagram of one possible mechanism of function for intragenic gene expression, in which intragenic gene expression leads to the production of an N-terminally truncated protein that is missing a domain normally found in the full-length protein.</figcaption>
 </figure> 
 
-The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+As a graduate student (now postdoc) in the <a href="https://winstonlab.hms.harvard.edu/" target="_blank">Fred Winston lab</a>, I am doing data science/data engineering work on a project studying potential functions for **intragenic transcription** in wild-type *S. cerevisiae*.
+We are applying high-resolution assays of transcription initiation to discover instances of intragenic transcription that are regulated by cellular stresses, and are studying the roles that stress-regulated intragenic transcription may play in the response to stress.
 
-As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thing. Mission accomplished!
+
 

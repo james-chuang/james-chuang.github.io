@@ -2,11 +2,11 @@
   # description:
   files:
     - title: linear algebra review
-      path: notes/linalg_review.pdf
+      path: /notes/linalg_review.pdf
     - title: probability review
-      path: notes/prob_review.pdf
+      path: /notes/prob_review.pdf
     - title: least squares linear regression by gradient descent
-      path: notes/4-5_linear_least_squares_gradient_descent.pdf
+      path: /notes/4-5_linear_least_squares_gradient_descent.pdf
 
 - title: ESL
   description: My notes on The Elements of Statistical Learning by Friedman, Tibshirani, and Hastie.

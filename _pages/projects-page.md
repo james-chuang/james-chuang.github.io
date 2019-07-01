@@ -56,11 +56,11 @@ projects:
           btn_label: "Read More"
           btn_class: "btn--primary"
     row_4:
-        - # image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-          # alt: "placeholder image 3"
+        - image_path: /assets/images/vegas.png
+          alt: "A diagram of the VEGAS pathway assembly method."
           title: "DNA assembly methods"
           excerpt: "As an undergraduate in Jef Boeke's lab, I did wet lab work on projects developing standardized combinatorial DNA assembly methods for synthetic biology."
-          url: "#test-link"
+          url: /projects/dnaassembly/
           btn_label: "Read More"
           btn_class: "btn--primary"
 ---

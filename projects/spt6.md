@@ -26,7 +26,7 @@ To study Spt6, my collaborators in the lab generated a number of genomic dataset
 We performed these experiments using yeast because the process of transcription is very similar between yeast and humans, and yeast is extremely convenient to work with.
 One phenotype of *spt6-1004* cells we were particularly interested in studying is the phenomenon of **intragenic transcription**, unusual transcription which starts in the middle of a gene.
 
-The genomic assays my collaborators performed are listed in the following table:
+The genomic assays my collaborators performed to study Spt6 are listed in the following table:
 
 <table>
     <thead>
@@ -53,7 +53,7 @@ The genomic assays my collaborators performed are listed in the following table:
 
 To analyze the data produced by these assays in a reproducible manner, I developed analysis pipelines using the <a href="https://snakemake.readthedocs.io/en/stable/" target="_blank">Snakemake</a> workflow management system.
 The pipelines are maintained at the <a href="https://github.com/winston-lab" target="_blank">Winston Lab github page</a>.
-Below are a few examples of figures produced through the pipelines.
+A few examples of figures I produced using these pipelines are below.
 
 <figure style="width:100%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/spt6_tss_seq_heatmaps.png" alt="Heatmaps of sense and antisense TSS-seq signal in wild-type and spt6-1004 cells.">
@@ -61,27 +61,29 @@ Below are a few examples of figures produced through the pipelines.
 </figure> 
 
 <figure style="width:80%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/spt6_mnase_seq_metagene.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/spt6_mnase_seq_metagene.png" alt="Average MNase-seq dyad signal in wild-type and spt6-1004 cells, over genes aligned by +1 nucleosome dyad.">
   <figcaption>Average MNase-seq dyad signal in wild-type and <i>spt6-1004</i> cells, over 3522 nonoverlapping genes aligned by wild-type +1 nucleosome dyad. The solid line and shading are the median and the inter-quartile range of the mean spike-in normalized signal in nonoverlapping 20 bp bins.</figcaption>
 </figure> 
 
 <figure style="width:70%" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/spt6_tata.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/spt6_tata.png" alt="Scaled density of TATA-box consensus motifs upstream of wild-type genic, and spt6-1004-induced antisense and intragenic TSSs.">
   <figcaption>Scaled density of exact matches to the TATA-box consensus motif TATAWAWR upstream of wild-type genic, and <i>spt6-1004</i>-induced antisense and intragenic TSSs. For each category, a Gaussian kernel density estimate of the positions of motif occurrences is scaled by the number of motif occurrences per region.</figcaption>
 </figure> 
 
 <p style="clear:both">
-Our results were published in <a href="https://doi.org/10.1016/j.molcel.2018.09.005" target="_blank">Molecular Cell</a>, with the following major points:
+Our results were published in <a href="https://doi.org/10.1016/j.molcel.2018.09.005" target="_blank">Molecular Cell</a>, with the following major conclusions:
 </p>
 
-- Using TSS-seq, we catalog the full extent of intragenic transcription in *spt6-1004*.
+- Using TSS-seq, we catalog the full extent of intragenic transcription in *spt6-1004*, finding thousands of upregulated intragenic and antisense transcripts.
 - Using ChIP-nexus of TFIIB, we show that TFIIB binding is widespread over the genome in *spt6-1004*, and that new transcription initiation explains most intragenic transcripts in *spt6-1004*.
 - Using MNase-seq, we observe a global depletion and disordering of nucleosomes in *spt6-1004*.
 - We find that intragenic promoters induced in *spt6-1004* have some sequence features of canonical genic promoters.
 - By both TSS-seq and TFIIB ChIP-nexus, we observe an unexpected decrease in genic transcription in *spt6-1004*.
-- Altogether, we propose that reduction in nucleosome protection of the genome in *spt6-1004* makes promoter-like sequences within genes accessible to the transcription initiation machinery, redistributing the pool of transcription initiation factors away from genic promoters, towards intragenic promoters.
+- Altogether, we propose that the reduction in nucleosome protection of the genome in *spt6-1004* makes promoter-like sequences within genes accessible to the transcription initiation machinery, causing a redistribution of transcription initiation factors away from genic promoters and towards intragenic promoters.
 
 Upon publication, I made the raw data and all data analyses available <a href="https://doi.org/10.5281/zenodo.1409826" target="_blank">on Zenodo</a>, allowing anyone interested to go all the way from raw data to the figures in the publication.
+
+Overall, our studies highlight the importance of nucleosomes in restricting access to the genome, and the role of histone chaperones like Spt6 in maintaining nucleosomes in their normal state.
 
 <!-- | pipeline (github link) | description | -->
 <!-- | --------:|:----------- | -->
