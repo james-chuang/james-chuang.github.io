@@ -74,14 +74,17 @@ analytics:
 author:
   name   : "James Chuang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A digital plumber:<br>One who builds pipelines<br>for data analysis."
+  bio    : "A digital plumber:<br>I build pipelines<br>for data analysis."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://james-chuang.github.io"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://james-chuang.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/james-chuang"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-alt"
+      url: /assets/cv.pdf
 
 footer:
   links:

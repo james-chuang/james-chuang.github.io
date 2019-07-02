@@ -60,4 +60,11 @@
       path: /notes/dlbook/ch5_ML_basics.pdf
     - title: "chapter 6: deep feedforward networks notes"
       path: /notes/dlbook/ch6_deep_ff_networks.pdf
+- title: PhD dissertation
+  description: 'My dissertation: "Genomic analyses of transcription elongation factors<br>and intragenic transcription".'
+  files:
+    - title: dissertation
+      path: /assets/jc_thesis_2019_07_02.pdf
+    - title: presentation
+      path: /assets/jc_thesis_presentation_2019_06_19.pdf
 

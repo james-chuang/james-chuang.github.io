@@ -15,8 +15,9 @@ I learned more about biology and worked on <a href="/projects/dnaassembly/">stan
 I also contributed to the <a href="http://syntheticyeast.org/" target="_blank">Synthetic Yeast Genome Project</a> through the <a href="http://syntheticyeast.org/build-a-genome/" target="_blank">Build-A-Genome</a> program.
 
 After college, I went to Boston University to do a PhD in biomedical engineering.
-I ended up working in the <a href="https://winstonlab.hms.harvard.edu/" target="_blank">Fred Winston lab</a> at Harvard Medical School, a lab which studies the process of transcription.
-During my time in the Winston lab, I was exposed to cutting-edge genomic techniques and the difficulties in analyzing the outputs of these techniques.
-At the same time, I wanted to shift my 
+I did my thesis work in the <a href="https://winstonlab.hms.harvard.edu/" target="_blank">Fred Winston lab</a> at Harvard Medical School, a lab which studies the process of transcription.
+In the Winston lab, I was exposed to genomics and the need to apply statistics/data science/machine learning to gain insights from complex biological data.
+I transitioned to full-time data analysis, and developed <a href="https://github.com/winston-lab" target="_blank">pipelines</a> to reproducibly process and analyze the genomic datasets routinely generated in the lab.
 
+Currently, I am continuing to work on projects in the Winston lab as a postdoc, and am on the market for interesting data analysis jobs!
 
