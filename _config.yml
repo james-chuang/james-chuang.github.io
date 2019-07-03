@@ -98,7 +98,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: project
       author_profile: true
       read_time: false
       comments: true
