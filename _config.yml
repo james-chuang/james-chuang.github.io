@@ -20,9 +20,7 @@ locale : "en-US"
 title: a digital plumber
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The personal website of James Chuang.
 # twitter_username: username
 github_username: james-chuang
 minimal_mistakes_skin: default
@@ -37,7 +35,7 @@ search_full_content: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
