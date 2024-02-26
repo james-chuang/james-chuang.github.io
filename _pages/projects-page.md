@@ -81,7 +81,7 @@ projects:
           btn_class: "btn--primary"
 ---
 
-Projects I've worked on or am currently working on:
+Some projects I've worked on:
 
 {% for p in page.projects %}
     {% assign project=p[0] %}
