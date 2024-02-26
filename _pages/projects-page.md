@@ -2,6 +2,7 @@
 title: "Projects"
 layout: splash
 permalink: /projects/
+classes: wide
 date: 2016-03-23T11:48:41-04:00
 # header:
 #  overlay_color: "#000"
@@ -51,7 +52,7 @@ projects:
         - image_path: /assets/images/spt5.png
           alt: "Cartoon of antisense transcription upon Spt5 depletion."
           title: "Transcription elongation factor Spt5"
-          excerpt: 'In the Fred Winston lab, I did data science work on a project using genomic assays to study the conserved transcription elongation factor Spt5 in *Schizosaccharomyces pombe*.'
+          excerpt: 'In the Fred Winston lab, I analyzed multiomics data to study the conserved transcription elongation factor Spt5 in *Schizosaccharomyces pombe*.'
           url: /projects/spt5
           btn_label: "Read More"
           btn_class: "btn--primary"
@@ -59,7 +60,7 @@ projects:
         - image_path: /assets/images/intragenic.png
           alt: "Diagram of intragenic transcription generating a truncated protein."
           title: "Functions of intragenic transcription"
-          excerpt: 'In the Fred Winston lab, I did data science work on a project studying possible functions for intragenic transcription in yeast cells under stress conditions.'
+          excerpt: 'In the Fred Winston lab, I analyzed multiomics data to study possible functions for intragenic transcription in yeast cells under stress conditions.'
           url: /projects/intragenic
           btn_label: "Read More"
           btn_class: "btn--primary"
@@ -67,7 +68,7 @@ projects:
         - image_path: /assets/images/spt6.png
           alt: "Cartoon of the transcription elongation complex."
           title: "Transcription elongation factor Spt6"
-          excerpt: 'As a graduate student in the Fred Winston lab, I did data science work on a project using genomic assays to study the conserved transcription elongation factor Spt6 in *Saccharomyces cerevisiae*.'
+          excerpt: 'As a graduate student in the Fred Winston lab, I analyzed multiomics data to study the conserved transcription elongation factor Spt6 in *Saccharomyces cerevisiae*.'
           url: /projects/spt6/
           btn_label: "Read More"
           btn_class: "btn--primary"
