@@ -83,12 +83,15 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://james-chuang.github.io"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/james-chuang"
     - label: "CV"
       icon: "fas fa-fw fa-file-alt"
       url: /assets/cv-james-chuang.pdf
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/james-chuang"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=rNEHJJAAAAAJ&view_op=list_works&sortby=pubdate"
 
 footer:
   links:
