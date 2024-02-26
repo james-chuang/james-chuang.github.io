@@ -78,7 +78,7 @@ analytics:
 author:
   name   : "James Chuang"
   avatar : "assets/images/20201016_SLP7972-Edit-cropped.jpg"
-  bio    : "A digital plumber:<br>I build pipelines<br>for data analysis."
+  bio    : "Applying computational methods to interesting problems in biology."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
