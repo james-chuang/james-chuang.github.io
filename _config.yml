@@ -92,6 +92,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=rNEHJJAAAAAJ&view_op=list_works&sortby=pubdate"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/james-chuang-ab3ba71b3/"
 
 footer:
   links:
